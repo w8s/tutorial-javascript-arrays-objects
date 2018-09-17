@@ -11,3 +11,4 @@ Examples of:
 Resources:
 
 * YouTube Tutorial: <https://youtu.be/QArobJ_YxGA>
+* GitHub Pages: <https://w8s.github.io/tutorial-javascript-arrays-objects/>
